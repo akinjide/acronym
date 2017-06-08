@@ -1,0 +1,11 @@
+{
+  "name": "acronym",
+  "version": "1.0.0",
+  "description": "Transform sentences to acronyms.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinjide/acronym.git"
+  },
+  "author": "Akinjide Bankole <r@akinjide.me>"
+}
